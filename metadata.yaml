@@ -1,0 +1,41 @@
+_repo: For-the-Right_36904
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+  translator:
+    agent_name: Sutter, Julie
+    gutenberg_agent_id: '38531'
+    url: http://www.gutenberg.org/2009/agents/38531
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franzos, Karl Emil
+    aliases:
+    - Franzos, K. E. (Karl Emil)
+    - Franzos, Emil
+    birthdate: 1848
+    deathdate: 1904
+    gutenberg_agent_id: '37123'
+    url: http://www.gutenberg.org/2009/agents/37123
+description: ''
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction -- Translations into English'
+- !lcc 'PT'
+title: For the Right
+url: http://www.gutenberg.org/ebooks/36904
