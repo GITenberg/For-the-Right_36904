@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '37123'
     url: http://www.gutenberg.org/2009/agents/37123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36904#For-the-Right
 gutenberg_issued: '2011-07-30'
 gutenberg_type: Text
 identifiers:
